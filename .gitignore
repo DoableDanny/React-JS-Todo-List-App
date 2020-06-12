@@ -23,7 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Ignore everything but the build for github "build" branch
-.public
-.src
-package-lock.json
-package.json package.json
+/public
+/src
+.package-lock.json
+.package.json package.json
